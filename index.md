@@ -9,5 +9,5 @@
 - Point 1
 - Point 2
 ![]<script src="http://cafebible.free.fr/lsg/lsg-day.js" type="text/javascript"></script>
-(http://cafebible.free.fr/lsg/lsg-day)
+(http://cafebible.free.fr/lsg/lsg-day.js)
 (http://www.youtube.com/watch?v=O7JcexLIgkI "Donald Cox")
